@@ -83,7 +83,7 @@ assign S = ~(P|Q|R);
 assign F = ~S;
 endmodule
 ```
-## <a href="https://github.com/ShafeeqAhamedS/Experiment--05-Implementation-of-flipflops-using-verilog.git" target="_blank">Exp 05-Implementation-of-flipflops-using-verilog</a>
+## <a href="https://github.com/Shrruthilaya-Gangadaran/Experiment--05-Implementation-of-flipflops-using-verilog.git" target="_blank">Exp 05-Implementation-of-flipflops-using-verilog</a>
 ### SR FLIP FLOP:
 ```
 module sr(s,r,clock,q,qbar);
